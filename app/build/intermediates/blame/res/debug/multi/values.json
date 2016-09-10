@@ -1,0 +1,480 @@
+[
+    {
+        "outputFile": "C:\\Users\\TienH\\.AndroidStudio1.5\\Project\\nmr-tutor-azOrig1\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 9,
+                    "endColumn": 19,
+                    "endOffset": 270
+                },
+                "from": {
+                    "file": "C:\\Users\\TienH\\.AndroidStudio1.5\\Project\\nmr-tutor-azOrig1\\app\\src\\main\\res\\values\\spinner_items.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 9,
+                        "endColumn": 19,
+                        "endOffset": 270
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 275,
+                    "endColumn": 38,
+                    "endOffset": 309
+                },
+                "from": {
+                    "file": "C:\\Users\\TienH\\.AndroidStudio1.5\\Project\\nmr-tutor-azOrig1\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 5,
+                        "startOffset": 56,
+                        "endColumn": 39,
+                        "endOffset": 90
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 314,
+                    "endColumn": 57,
+                    "endOffset": 367
+                },
+                "from": {
+                    "file": "C:\\Users\\TienH\\.AndroidStudio1.5\\Project\\nmr-tutor-azOrig1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 89,
+                        "endColumn": 57,
+                        "endOffset": 142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 372,
+                    "endColumn": 55,
+                    "endOffset": 423
+                },
+                "from": {
+                    "file": "C:\\Users\\TienH\\.AndroidStudio1.5\\Project\\nmr-tutor-azOrig1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 147,
+                        "endColumn": 55,
+                        "endOffset": 198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 428,
+                    "endColumn": 52,
+                    "endOffset": 476
+                },
+                "from": {
+                    "file": "C:\\Users\\TienH\\.AndroidStudio1.5\\Project\\nmr-tutor-azOrig1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 105,
+                        "endColumn": 52,
+                        "endOffset": 153
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 481,
+                    "endColumn": 49,
+                    "endOffset": 526
+                },
+                "from": {
+                    "file": "C:\\Users\\TienH\\.AndroidStudio1.5\\Project\\nmr-tutor-azOrig1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 49,
+                        "endOffset": 100
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 531,
+                    "endColumn": 52,
+                    "endOffset": 579
+                },
+                "from": {
+                    "file": "C:\\Users\\TienH\\.AndroidStudio1.5\\Project\\nmr-tutor-azOrig1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 158,
+                        "endColumn": 52,
+                        "endOffset": 206
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 584,
+                    "endColumn": 482,
+                    "endOffset": 1062
+                },
+                "from": {
+                    "file": "C:\\Users\\TienH\\.AndroidStudio1.5\\Project\\nmr-tutor-azOrig1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 624,
+                        "endColumn": 482,
+                        "endOffset": 1102
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1067,
+                    "endColumn": 309,
+                    "endOffset": 1372
+                },
+                "from": {
+                    "file": "C:\\Users\\TienH\\.AndroidStudio1.5\\Project\\nmr-tutor-azOrig1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 314,
+                        "endColumn": 309,
+                        "endOffset": 619
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1377,
+                    "endColumn": 101,
+                    "endOffset": 1474
+                },
+                "from": {
+                    "file": "C:\\Users\\TienH\\.AndroidStudio1.5\\Project\\nmr-tutor-azOrig1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 212,
+                        "endColumn": 101,
+                        "endOffset": 309
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1479,
+                    "endLine": 25,
+                    "endColumn": 12,
+                    "endOffset": 1765
+                },
+                "from": {
+                    "file": "C:\\Users\\TienH\\.AndroidStudio1.5\\Project\\nmr-tutor-azOrig1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 186,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1770,
+                    "endLine": 28,
+                    "endColumn": 12,
+                    "endOffset": 1925
+                },
+                "from": {
+                    "file": "C:\\Users\\TienH\\.AndroidStudio1.5\\Project\\nmr-tutor-azOrig1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 510,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 665
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "E:\\nmr-tutor-azOrig1\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 9,
+                    "endColumn": 19,
+                    "endOffset": 270
+                },
+                "from": {
+                    "file": "E:\\nmr-tutor-azOrig1\\app\\src\\main\\res\\values\\spinner_items.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 9,
+                        "endColumn": 19,
+                        "endOffset": 270
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 275,
+                    "endColumn": 38,
+                    "endOffset": 309
+                },
+                "from": {
+                    "file": "E:\\nmr-tutor-azOrig1\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 5,
+                        "startOffset": 56,
+                        "endColumn": 39,
+                        "endOffset": 90
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 314,
+                    "endColumn": 57,
+                    "endOffset": 367
+                },
+                "from": {
+                    "file": "E:\\nmr-tutor-azOrig1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 89,
+                        "endColumn": 57,
+                        "endOffset": 142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 372,
+                    "endColumn": 55,
+                    "endOffset": 423
+                },
+                "from": {
+                    "file": "E:\\nmr-tutor-azOrig1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 147,
+                        "endColumn": 55,
+                        "endOffset": 198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 428,
+                    "endColumn": 52,
+                    "endOffset": 476
+                },
+                "from": {
+                    "file": "E:\\nmr-tutor-azOrig1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 105,
+                        "endColumn": 52,
+                        "endOffset": 153
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 481,
+                    "endColumn": 49,
+                    "endOffset": 526
+                },
+                "from": {
+                    "file": "E:\\nmr-tutor-azOrig1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 49,
+                        "endOffset": 100
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 531,
+                    "endColumn": 52,
+                    "endOffset": 579
+                },
+                "from": {
+                    "file": "E:\\nmr-tutor-azOrig1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 158,
+                        "endColumn": 52,
+                        "endOffset": 206
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 584,
+                    "endColumn": 482,
+                    "endOffset": 1062
+                },
+                "from": {
+                    "file": "E:\\nmr-tutor-azOrig1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 624,
+                        "endColumn": 482,
+                        "endOffset": 1102
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1067,
+                    "endColumn": 309,
+                    "endOffset": 1372
+                },
+                "from": {
+                    "file": "E:\\nmr-tutor-azOrig1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 314,
+                        "endColumn": 309,
+                        "endOffset": 619
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1377,
+                    "endColumn": 101,
+                    "endOffset": 1474
+                },
+                "from": {
+                    "file": "E:\\nmr-tutor-azOrig1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 212,
+                        "endColumn": 101,
+                        "endOffset": 309
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1479,
+                    "endLine": 25,
+                    "endColumn": 12,
+                    "endOffset": 1765
+                },
+                "from": {
+                    "file": "E:\\nmr-tutor-azOrig1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 186,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1770,
+                    "endLine": 28,
+                    "endColumn": 12,
+                    "endOffset": 1925
+                },
+                "from": {
+                    "file": "E:\\nmr-tutor-azOrig1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 510,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 665
+                    }
+                }
+            }
+        ]
+    }
+]

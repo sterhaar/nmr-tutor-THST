@@ -1,0 +1,111 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .gitattributes
+* .gitignore
+* .idea\
+* .idea\.name
+* .idea\compiler.xml
+* .idea\copyright\
+* .idea\copyright\profiles_settings.xml
+* .idea\libraries\
+* .idea\libraries\android_support_v4.xml
+* .idea\libraries\dexedLibs.xml
+* .idea\misc.xml
+* .idea\modules.xml
+* .idea\vcs.xml
+* .idea\workspace.xml
+* README.md
+* ic_launcher-web.png
+* nmr-tutor-az.apk
+* nmr-tutor-az.iml
+* out\
+* out\production\
+* out\production\nmr-tutor-az\
+* out\production\nmr-tutor-az\edu\
+* out\production\nmr-tutor-az\edu\sbu\
+* out\production\nmr-tutor-az\edu\sbu\cs\
+* out\production\nmr-tutor-az\edu\sbu\cs\android\
+* out\production\nmr-tutor-az\edu\sbu\cs\android\BuildConfig.class
+* out\production\nmr-tutor-az\edu\sbu\cs\android\NMR\
+* out\production\nmr-tutor-az\edu\sbu\cs\android\NMR\adapter\
+* out\production\nmr-tutor-az\edu\sbu\cs\android\NMR\adapter\TabsPagerAdapter.class
+* out\production\nmr-tutor-az\edu\sbu\cs\android\NMR\core\
+* out\production\nmr-tutor-az\edu\sbu\cs\android\NMR\core\AnswerDialog$AnswerTask.class
+* out\production\nmr-tutor-az\edu\sbu\cs\android\NMR\core\AnswerDialog.class
+* out\production\nmr-tutor-az\edu\sbu\cs\android\NMR\core\CopyOfAnswerDialog$1.class
+* out\production\nmr-tutor-az\edu\sbu\cs\android\NMR\core\CopyOfAnswerDialog$QuestionTask.class
+* out\production\nmr-tutor-az\edu\sbu\cs\android\NMR\core\CopyOfAnswerDialog.class
+* out\production\nmr-tutor-az\edu\sbu\cs\android\NMR\core\DrawFragment.class
+* out\production\nmr-tutor-az\edu\sbu\cs\android\NMR\core\HomeFragment$1.class
+* out\production\nmr-tutor-az\edu\sbu\cs\android\NMR\core\HomeFragment$OnSelectedListener.class
+* out\production\nmr-tutor-az\edu\sbu\cs\android\NMR\core\HomeFragment.class
+* out\production\nmr-tutor-az\edu\sbu\cs\android\NMR\core\ImageAdapter.class
+* out\production\nmr-tutor-az\edu\sbu\cs\android\NMR\core\MainActivity$1.class
+* out\production\nmr-tutor-az\edu\sbu\cs\android\NMR\core\MainActivity.class
+* out\production\nmr-tutor-az\edu\sbu\cs\android\NMR\core\NonSwipeableViewPager.class
+* out\production\nmr-tutor-az\edu\sbu\cs\android\NMR\core\Question.class
+* out\production\nmr-tutor-az\edu\sbu\cs\android\NMR\core\QuestionsFragment$QuestionTask.class
+* out\production\nmr-tutor-az\edu\sbu\cs\android\NMR\core\QuestionsFragment.class
+* out\production\nmr-tutor-az\edu\sbu\cs\android\NMR\core\SpectraFragment.class
+* out\production\nmr-tutor-az\edu\sbu\cs\android\NMR\core\SpinnerNavItem.class
+* out\production\nmr-tutor-az\edu\sbu\cs\android\NMR\drawing\
+* out\production\nmr-tutor-az\edu\sbu\cs\android\NMR\drawing\DrawingView.class
+* out\production\nmr-tutor-az\edu\sbu\cs\android\R$array.class
+* out\production\nmr-tutor-az\edu\sbu\cs\android\R$attr.class
+* out\production\nmr-tutor-az\edu\sbu\cs\android\R$color.class
+* out\production\nmr-tutor-az\edu\sbu\cs\android\R$dimen.class
+* out\production\nmr-tutor-az\edu\sbu\cs\android\R$drawable.class
+* out\production\nmr-tutor-az\edu\sbu\cs\android\R$id.class
+* out\production\nmr-tutor-az\edu\sbu\cs\android\R$layout.class
+* out\production\nmr-tutor-az\edu\sbu\cs\android\R$menu.class
+* out\production\nmr-tutor-az\edu\sbu\cs\android\R$raw.class
+* out\production\nmr-tutor-az\edu\sbu\cs\android\R$string.class
+* out\production\nmr-tutor-az\edu\sbu\cs\android\R$style.class
+* out\production\nmr-tutor-az\edu\sbu\cs\android\R.class
+* out\production\nmr-tutor-az\nmr-tutor-az.apk
+* out\production\nmr-tutor-az\nmr-tutor-az.unaligned.apk
+* proguard-project.txt
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+android-support-v4.jar => com.android.support:support-v4:21.0.3
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app\src\main\AndroidManifest.xml
+* assets\ => app\src\main\assets\
+* res\ => app\src\main\res\
+* src\ => app\src\main\java\
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)
