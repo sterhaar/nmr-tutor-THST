@@ -16,28 +16,8 @@
         "source": "C:\\Users\\TienH\\.AndroidStudio1.5\\Project\\nmr-tutor-azOrig1\\app\\src\\main\\res\\layout\\question_item.xml"
     },
     {
-        "merged": "E:\\nmr-tutor-azOrig1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_title_navigation.xml",
-        "source": "E:\\nmr-tutor-azOrig1\\app\\src\\main\\res\\layout\\list_item_title_navigation.xml"
-    },
-    {
-        "merged": "E:\\nmr-tutor-azOrig1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\answer_spinner_items.xml",
-        "source": "E:\\nmr-tutor-azOrig1\\app\\src\\main\\res\\layout\\answer_spinner_items.xml"
-    },
-    {
-        "merged": "E:\\nmr-tutor-azOrig1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\question_item.xml",
-        "source": "E:\\nmr-tutor-azOrig1\\app\\src\\main\\res\\layout\\question_item.xml"
-    },
-    {
-        "merged": "E:\\nmr-tutor-azOrig1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_home.xml",
-        "source": "E:\\nmr-tutor-azOrig1\\app\\src\\main\\res\\layout\\fragment_home.xml"
-    },
-    {
         "merged": "C:\\Users\\TienH\\.AndroidStudio1.5\\Project\\nmr-tutor-azOrig1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\question_dialog.xml",
         "source": "C:\\Users\\TienH\\.AndroidStudio1.5\\Project\\nmr-tutor-azOrig1\\app\\src\\main\\res\\layout\\question_dialog.xml"
-    },
-    {
-        "merged": "E:\\nmr-tutor-azOrig1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\question_dialog.xml",
-        "source": "E:\\nmr-tutor-azOrig1\\app\\src\\main\\res\\layout\\question_dialog.xml"
     },
     {
         "merged": "C:\\Users\\TienH\\.AndroidStudio1.5\\Project\\nmr-tutor-azOrig1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_title_navigation.xml",
@@ -48,43 +28,19 @@
         "source": "C:\\Users\\TienH\\.AndroidStudio1.5\\Project\\nmr-tutor-azOrig1\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
-        "merged": "E:\\nmr-tutor-azOrig1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_spectra.xml",
-        "source": "E:\\nmr-tutor-azOrig1\\app\\src\\main\\res\\layout\\fragment_spectra.xml"
+        "merged": "C:\\Users\\TienH\\.AndroidStudio1.5\\Project\\nmr-tutor-azOrig1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\TienH\\.AndroidStudio1.5\\Project\\nmr-tutor-azOrig1\\app\\src\\main\\res\\layout\\fragment_home.xml"
     },
     {
         "merged": "C:\\Users\\TienH\\.AndroidStudio1.5\\Project\\nmr-tutor-azOrig1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_spectra.xml",
         "source": "C:\\Users\\TienH\\.AndroidStudio1.5\\Project\\nmr-tutor-azOrig1\\app\\src\\main\\res\\layout\\fragment_spectra.xml"
     },
     {
-        "merged": "E:\\nmr-tutor-azOrig1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_questions.xml",
-        "source": "E:\\nmr-tutor-azOrig1\\app\\src\\main\\res\\layout\\fragment_questions.xml"
-    },
-    {
-        "merged": "E:\\nmr-tutor-azOrig1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\spinner_items.xml",
-        "source": "E:\\nmr-tutor-azOrig1\\app\\src\\main\\res\\layout\\spinner_items.xml"
-    },
-    {
-        "merged": "E:\\nmr-tutor-azOrig1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_draw.xml",
-        "source": "E:\\nmr-tutor-azOrig1\\app\\src\\main\\res\\layout\\fragment_draw.xml"
-    },
-    {
-        "merged": "C:\\Users\\TienH\\.AndroidStudio1.5\\Project\\nmr-tutor-azOrig1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_home.xml",
-        "source": "C:\\Users\\TienH\\.AndroidStudio1.5\\Project\\nmr-tutor-azOrig1\\app\\src\\main\\res\\layout\\fragment_home.xml"
-    },
-    {
-        "merged": "C:\\Users\\TienH\\.AndroidStudio1.5\\Project\\nmr-tutor-azOrig1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\answer_spinner_items.xml",
-        "source": "C:\\Users\\TienH\\.AndroidStudio1.5\\Project\\nmr-tutor-azOrig1\\app\\src\\main\\res\\layout\\answer_spinner_items.xml"
-    },
-    {
         "merged": "C:\\Users\\TienH\\.AndroidStudio1.5\\Project\\nmr-tutor-azOrig1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_draw.xml",
         "source": "C:\\Users\\TienH\\.AndroidStudio1.5\\Project\\nmr-tutor-azOrig1\\app\\src\\main\\res\\layout\\fragment_draw.xml"
     },
     {
-        "merged": "E:\\nmr-tutor-azOrig1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
-        "source": "E:\\nmr-tutor-azOrig1\\app\\src\\main\\res\\layout\\activity_main.xml"
-    },
-    {
-        "merged": "E:\\nmr-tutor-azOrig1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\answer.xml",
-        "source": "E:\\nmr-tutor-azOrig1\\app\\src\\main\\res\\layout\\answer.xml"
+        "merged": "C:\\Users\\TienH\\.AndroidStudio1.5\\Project\\nmr-tutor-azOrig1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\answer_spinner_items.xml",
+        "source": "C:\\Users\\TienH\\.AndroidStudio1.5\\Project\\nmr-tutor-azOrig1\\app\\src\\main\\res\\layout\\answer_spinner_items.xml"
     }
 ]

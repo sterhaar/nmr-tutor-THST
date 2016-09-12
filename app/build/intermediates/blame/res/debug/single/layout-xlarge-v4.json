@@ -6,13 +6,5 @@
     {
         "merged": "C:\\Users\\TienH\\.AndroidStudio1.5\\Project\\nmr-tutor-azOrig1\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-v4\\fragment_draw.xml",
         "source": "C:\\Users\\TienH\\.AndroidStudio1.5\\Project\\nmr-tutor-azOrig1\\app\\src\\main\\res\\layout-xlarge\\fragment_draw.xml"
-    },
-    {
-        "merged": "E:\\nmr-tutor-azOrig1\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-v4\\fragment_draw.xml",
-        "source": "E:\\nmr-tutor-azOrig1\\app\\src\\main\\res\\layout-xlarge\\fragment_draw.xml"
-    },
-    {
-        "merged": "E:\\nmr-tutor-azOrig1\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-v4\\question_dialog.xml",
-        "source": "E:\\nmr-tutor-azOrig1\\app\\src\\main\\res\\layout-xlarge\\question_dialog.xml"
     }
 ]

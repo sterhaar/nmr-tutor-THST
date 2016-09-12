@@ -1,9 +1,5 @@
 [
     {
-        "merged": "E:\\nmr-tutor-azOrig1\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-land-v4\\question_dialog.xml",
-        "source": "E:\\nmr-tutor-azOrig1\\app\\src\\main\\res\\layout-xlarge-land\\question_dialog.xml"
-    },
-    {
         "merged": "C:\\Users\\TienH\\.AndroidStudio1.5\\Project\\nmr-tutor-azOrig1\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-land-v4\\question_dialog.xml",
         "source": "C:\\Users\\TienH\\.AndroidStudio1.5\\Project\\nmr-tutor-azOrig1\\app\\src\\main\\res\\layout-xlarge-land\\question_dialog.xml"
     }
