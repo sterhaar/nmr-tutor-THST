@@ -1,0 +1,20 @@
+We started the semester with the idea that we would rebuild the app so we could gain a better understanding of how 
+the app works and the organization of the app. Upon trying this for a few weeks, we realized that we were kind of 
+taking too many steps back and making mistakes that the previous app developers had already made. So we decided to 
+utilize the current app and continue making changes to improve it. We started working with Microsoft’s material and 
+design methods to make the app comply with Microsoft guidelines and appear more user-friendly. Sam worked on creating 
+a bottom sheet layout to display the questions for each spectra. Sam began by trying to implement the bottom sheet 
+directly into the current app, but found some difficulties with rendering problems. After searching the internet and 
+asking for assistance, she decided to create the bottom sheet in a separate app and was successful. But she realized 
+that in this separate app, the bottom sheet layout was created within the MainActivity rather than a fragment so that
+may have been why it worked. She has been working on trying to implement the bottom sheet within a fragment (still in 
+the separate app) to see if she is able to do that. The hope is that determining how to do this in a separate app will 
+allow her to understand it better and be able to recreate the bottom sheet in the actual NMR app. 
+
+As of now we are able to grab images in webview format. This is becoming a challenge for us because by using webview we 
+are unable to link buttons that will allow users to receive different type of graph or spectrums, such as IR,NMR, and CNMR. 
+Right now the approach is to rewrite the spectra and main activity to display actual images instead of webview format. We hope 
+that in this format, we will be able to link buttons with images and display them once a button is clicked. 
+
+So, the plan is to complete the bottom sheet and link buttons with different spectra to display on the spectra page. 
+After the completion of this, we will be able to re-organize the app and add questions to the app.  
